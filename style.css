@@ -1,0 +1,9 @@
+* {
+  max-width: 1200px;
+  background-color: cornflowerblue;
+}
+
+p {
+  font-size: 120px;
+  background-color: gold;
+}
